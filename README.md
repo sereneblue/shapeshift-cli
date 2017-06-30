@@ -13,7 +13,7 @@ pip install shapeshift-cli
 
 ```
 git clone https://github.com/sereneblue/shapeshift-cli
-cd shapeshift_cli
+cd shapeshift-cli
 python setup.py install
 ```
 
