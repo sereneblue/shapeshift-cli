@@ -1,0 +1,5 @@
+build/
+dist/
+shapeshift_cli.egg-info/
+**/__pycache__
+*.pyc
